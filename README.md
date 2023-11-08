@@ -1,16 +1,9 @@
-# simple_coffee_shop
+# Simple Coffee Shop
 
-A new Flutter project.
+Simple Coffee Shop
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Coffee_Shop/assets/146417248/b8dba8f8-0ec4-4532-931d-24232ca9ce49)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Coffee_Shop/assets/146417248/cdd09c89-ad6a-4a90-914c-975ed4ebea1b)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Simple_Coffee_Shop/assets/146417248/bdba22d0-6fd9-4c3a-8241-e9c799dbd9f0)
